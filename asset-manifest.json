@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/books-management/static/css/main.057a26ef.chunk.css",
+    "main.js": "/books-management/static/js/main.cc780fa5.chunk.js",
+    "main.js.map": "/books-management/static/js/main.cc780fa5.chunk.js.map",
+    "runtime~main.js": "/books-management/static/js/runtime~main.371ff20d.js",
+    "runtime~main.js.map": "/books-management/static/js/runtime~main.371ff20d.js.map",
+    "static/js/2.ce00776e.chunk.js": "/books-management/static/js/2.ce00776e.chunk.js",
+    "static/js/2.ce00776e.chunk.js.map": "/books-management/static/js/2.ce00776e.chunk.js.map",
+    "index.html": "/books-management/index.html",
+    "precache-manifest.8f21f23b1dc4fc3ec57317cf7a80654a.js": "/books-management/precache-manifest.8f21f23b1dc4fc3ec57317cf7a80654a.js",
+    "service-worker.js": "/books-management/service-worker.js",
+    "static/css/main.057a26ef.chunk.css.map": "/books-management/static/css/main.057a26ef.chunk.css.map"
+  }
+}
