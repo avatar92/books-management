@@ -1,0 +1,14 @@
+.bookupdateContainer
+{
+    text-align: center; 
+}
+.bookdescriptioninput
+{
+    max-width: 400px;
+}
+.inputcontainer
+{
+    display: flex; 
+    justify-content: center;
+    margin: 30px 0px 30px 0px;
+}

@@ -1,0 +1,38 @@
+.bookspageContainer
+{
+    background-color: whitesmoke;
+
+}
+.PagesNumbers {
+    display: flex;
+    /* border: 1px solid;  */
+    justify-content: center;  
+}
+/****pagination****/  
+.PagesNumbers span 
+{
+
+    margin-top: 30px; 
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.PagesNumbers span.active 
+{
+background-color: #17a2b8;
+color: white;
+border-radius: 5px;
+}
+
+.PagesNumbers span:hover:not(.active) {
+background-color: #ddd;
+border-radius: 5px;
+}
+.paginationDiv
+{
+    display: flex; 
+    justify-content: center; 
+}

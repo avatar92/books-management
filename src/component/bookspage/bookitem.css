@@ -1,0 +1,22 @@
+.bookitemContainer
+{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: baseline; 
+    font-size: 2vw; 
+}
+.square
+{
+    width: 10px; 
+    height: 10px; 
+    background-color: green; 
+    border-radius: 50%; 
+}
+.bookinfo
+{
+    width: 13.2vw;
+}
+.button
+{
+    font-size:  2vw 
+}
